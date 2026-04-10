@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Couleur principale (toolbar, splash screen) -->
+    <color name="colorPrimary">#E91E8C</color>
+    <!-- Rose foncé pour le status bar -->
+    <color name="colorPrimaryDark">#C2177A</color>
+    <!-- Couleur d'accent (icônes, boutons) -->
+    <color name="colorAccent">#E91E8C</color>
+
+    <!-- Fond splash screen -->
+    <color name="splashBackground">#E53935</color>
+    <!-- Fond liste -->
+    <color name="listBackground">#F5F5F5</color>
+    <!-- Fond item liste -->
+    <color name="itemBackground">#FFFFFF</color>
+
+    <!-- Texte titre pizza (liste) -->
+    <color name="titleText">#212121</color>
+    <!-- Texte meta (nombre, durée) -->
+    <color name="metaText">#757575</color>
+
+    <!-- Texte blanc (toolbar, splash) -->
+    <color name="textWhite">#FFFFFFFF</color>
+
+    <!-- Couleur du ProgressBar (splash) -->
+    <color name="progressColor">#4CAF50</color>
+</resources>
